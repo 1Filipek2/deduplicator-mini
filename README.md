@@ -20,6 +20,6 @@ Even though this is a beginner project, it already uses some solid concepts:
 Requires .NET 10 SDK.
 
 ```bash
-git clone https://github.com/1Filipek2/deduplicator-test
+git clone https://github.com/1Filipek2/deduplicator-mini
 cd Deduplicator.Cli
 dotnet run
